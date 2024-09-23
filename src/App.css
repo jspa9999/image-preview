@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  margin: 15px;
+}
+.fm{
+  display: inline-block;
+  background-color: lightcoral;
+  padding: 20px;
+}
+
+.nm{
+  display: inline-block;
+  width: 100px;
+}
+nav{
+ display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: darksalmon;
+  font-size: 2rem;
+}
+.internalLabel{
+  width: auto;
+}
